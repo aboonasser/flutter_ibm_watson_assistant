@@ -1,16 +1,9 @@
-# ibm_watson
+IBM WATSON ASSISTANT BY USING FLUTTER
 
-A new Flutter project.
+Task 4 in Summer training (Smart methods) #summer training
 
-## Getting Started
+in video explain how it's work my application 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/74681807/129634791-ca17b4f9-ed06-40a9-b8dc-bf2a3c57d340.MP4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
